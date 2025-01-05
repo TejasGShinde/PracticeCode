@@ -1,6 +1,7 @@
 # PracticeCode
 
 //sso code for azure
+
 import { Component, OnInit } from '@angular/core';
 import { PublicClientApplication, AuthenticationResult, RedirectRequest } from '@azure/msal-browser';
 import { Router } from '@angular/router';
